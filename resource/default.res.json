@@ -1,0 +1,190 @@
+{
+	"groups": [
+		{
+			"keys": "lang_cn_json,lang_en_json,lang_kr_json,en_fat_white_fnt,en_fat_white_png,bg_bit_jpg,en_time_fnt,en_time_png,en_name_fnt,en_name_png,yard_bg1_png,yard_1_02_png,yard_1_01_png,bg_bitGrid_png,icon_png,game_bg1_jpg,game_bg2_jpg,bone_run_v10_tex_json,bone_run_v10_tex_png,bone_run_v10_ske_json,bone_stand_v7_ske_json,bone_stand_v7_tex_json,bone_stand_v7_tex_png,faq_cn_json,faq_en_json,faq_kr_json,ad190218_1_jpg,cn_fat_white_fnt,cn_fat_white_png,kr_fat_white_fnt,kr_fat_white_png",
+			"name": "scence"
+		},
+		{
+			"keys": "nakamoto_run_json,nakamoto_run_png,game_res_json,tm_new_sm_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "lang/lang_cn.json",
+			"type": "json",
+			"name": "lang_cn_json"
+		},
+		{
+			"url": "lang/lang_en.json",
+			"type": "json",
+			"name": "lang_en_json"
+		},
+		{
+			"url": "lang/lang_kr.json",
+			"type": "json",
+			"name": "lang_kr_json"
+		},
+		{
+			"url": "res_package/en_fat_white.fnt",
+			"type": "font",
+			"name": "en_fat_white_fnt"
+		},
+		{
+			"url": "res_package/en_fat_white.png",
+			"type": "image",
+			"name": "en_fat_white_png"
+		},
+		{
+			"url": "res_unpackage/bg_bit.jpg",
+			"type": "image",
+			"name": "bg_bit_jpg"
+		},
+		{
+			"url": "res_package/en_time.fnt",
+			"type": "font",
+			"name": "en_time_fnt"
+		},
+		{
+			"url": "res_package/en_time.png",
+			"type": "image",
+			"name": "en_time_png"
+		},
+		{
+			"url": "res_package/en_name.fnt",
+			"type": "font",
+			"name": "en_name_fnt"
+		},
+		{
+			"url": "res_package/en_name.png",
+			"type": "image",
+			"name": "en_name_png"
+		},
+		{
+			"url": "res_unpackage/yard_bg1.png",
+			"type": "image",
+			"name": "yard_bg1_png"
+		},
+		{
+			"url": "res_unpackage/yard_1_02.png",
+			"type": "image",
+			"name": "yard_1_02_png"
+		},
+		{
+			"url": "res_unpackage/yard_1_01.png",
+			"type": "image",
+			"name": "yard_1_01_png"
+		},
+		{
+			"url": "res_unpackage/bg_bitGrid.png",
+			"type": "image",
+			"name": "bg_bitGrid_png"
+		},
+		{
+			"url": "res_unpackage/icon.png",
+			"type": "image",
+			"name": "icon_png"
+		},
+		{
+			"url": "res_unpackage/game_bg1.jpg",
+			"type": "image",
+			"name": "game_bg1_jpg"
+		},
+		{
+			"url": "res_unpackage/game_bg2.jpg",
+			"type": "image",
+			"name": "game_bg2_jpg"
+		},
+		{
+			"url": "res_package/bone_run_v10_tex.json",
+			"type": "json",
+			"name": "bone_run_v10_tex_json"
+		},
+		{
+			"url": "res_package/bone_run_v10_tex.png",
+			"type": "image",
+			"name": "bone_run_v10_tex_png"
+		},
+		{
+			"url": "res_package/bone_run_v10_ske.json",
+			"type": "json",
+			"name": "bone_run_v10_ske_json"
+		},
+		{
+			"url": "res_package/bone_stand_v7_ske.json",
+			"type": "json",
+			"name": "bone_stand_v7_ske_json"
+		},
+		{
+			"url": "res_package/bone_stand_v7_tex.json",
+			"type": "json",
+			"name": "bone_stand_v7_tex_json"
+		},
+		{
+			"url": "res_package/bone_stand_v7_tex.png",
+			"type": "image",
+			"name": "bone_stand_v7_tex_png"
+		},
+		{
+			"url": "res_package/nakamoto_run.png",
+			"type": "image",
+			"name": "nakamoto_run_png"
+		},
+		{
+			"url": "res_package/nakamoto_run.json",
+			"type": "json",
+			"name": "nakamoto_run_json"
+		},
+		{
+			"url": "FAQ/faq_cn.json",
+			"type": "json",
+			"name": "faq_cn_json"
+		},
+		{
+			"url": "FAQ/faq_en.json",
+			"type": "json",
+			"name": "faq_en_json"
+		},
+		{
+			"url": "FAQ/faq_kr.json",
+			"type": "json",
+			"name": "faq_kr_json"
+		},
+		{
+			"url": "res_package/cn_fat_white.fnt",
+			"type": "font",
+			"name": "cn_fat_white_fnt"
+		},
+		{
+			"url": "res_package/cn_fat_white.png",
+			"type": "image",
+			"name": "cn_fat_white_png"
+		},
+		{
+			"url": "res_package/kr_fat_white.fnt",
+			"type": "font",
+			"name": "kr_fat_white_fnt"
+		},
+		{
+			"url": "res_package/kr_fat_white.png",
+			"type": "image",
+			"name": "kr_fat_white_png"
+		},
+		{
+			"url": "ads/ad190218_1.jpg",
+			"type": "image",
+			"name": "ad190218_1_jpg"
+		},
+		{
+			"name": "game_res_json",
+			"type": "sheet",
+			"url": "res_package/game_res.json",
+			"subkeys": "twitter,tm_sm,tm_bt_f,tm_bt_d,tm_bg,telegram,start_num8,start_num7,start_num6,start_num5,start_num4,start_num3,start_num2,start_num1,start_line,stand_rat8,stand_rat7,stand_rat6,stand_rat5,stand_rat4,stand_rat3,stand_rat2,stand_rat1,simbole_shadow,simbol_way_2nd,simbol_way_1st,simbol_startLine,simbol_nameBg,simbol_bitFocus,simbol_bit5,simbol_bit10,simbol_bit1,running_line,rats_names,medium,grid_bits,gmail,game_boardSimbol1,game_board2,game_board,finishSeq,finish_word,finish_line,finish_grid,finish_bar2,finish_bar1,demo_img1,countdown_ready,countdown_go,countdown_3,countdown_2,countdown_1,bubble,bt_go,bt_close,bt_bitReset,bt_bit5,bt_bit20,bt_bit1,board_talk2,board_talk,board_MN32,board_MN256,board_MN20k,board_MN1m,board_MN1153,board_intro_border_tr,board_intro_border_tl,board_gameEnd,board_border_tr,board_border_tl,board_border_l,board_bg,bg_talk,bg_bitsFloat,contact_board_border_tr,contact_board_border_t,contact_board_border_r,faq_board_border_t,faq_board_border_l,faq_board_border_r,bt_bid_str,bt_change_str,div_board_border_l,simbol_area_bg,bt_board_stander,simbol_input_bg2,simbol_input_bg1,str_mySlogen,eos_unit_run,div_board_border_r,div_board_border_t,bt_subtract,bt_add,bt_scrollArraw_up,bt_scrollArraw_down"
+		},
+		{
+			"name": "tm_new_sm_png",
+			"type": "image",
+			"url": "res_unpackage/tm_new_sm.png"
+		}
+	]
+}

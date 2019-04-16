@@ -1,0 +1,70 @@
+{
+    "langName":"简体中文",
+    "appName":"Nakamoto.run",
+
+    "str_statistics":"数据统计",
+    "str_chatroom":"聊天室",
+    "str_adsBidding":"广告投注",
+    "str_dividends":"分红",
+    "str_referral":"推荐",
+    "str_faq":"FAQ",
+    "str_contact":"联系我们",
+
+    "str_cycle":"轮次 #{1}",
+    "str_topBidder":"目前最高投注者",
+    "str_mySlogan":"我的广告语",
+
+    "str_staking":"质押",
+    "str_staked":"已质押",
+    "str_unstaked":"未质押",
+    "str_unclaimed":"未收取",
+    "str_payoutPool":"奖池",
+    "str_total":"总数",
+    "str_nextPayout":"距离下一次分红",
+    "str_myEstimatedPayout":"我的预计分红数",
+    "str_expectedPayoutPer1kRun":"每1千个RUN的预计分红",
+    "str_mining":"挖矿",
+    "str_estimatedRunMinedToday":"今日预计RUN挖矿数",
+    "str_totalRunUnclaimed":"尚未收取的RUN的总数",
+
+    "str_playNextRound":"玩下一轮",
+    "str_win":"你赢了 #{1} 个EOS",
+    "str_lose":" 你输了 #{1} 个EOS",
+
+     "str_referral_notes":"推荐奖励活动从2019年4月15日开始并持续4个星期，当你通过推荐链接邀请朋友玩游戏，你将获得他们下注金额的8%奖励，也就是说，他们每下注100EOS，你将获得8EOS奖励。",
+
+    "bt_game_restart":"重新开始",
+    "bt_bid_bidForMyAd":"为我的广告投标",
+    "bt_bid_change":"更改",
+    "bt_div_stake":"质押",
+    "bt_div_unstake":"赎回",
+    "bt_div_claimAll":"收取所有",
+
+    "tip_waiting":"豚鼠热身中 ;-)",
+    "tip_inputEmpty":"请输入金额。",
+    "tip_chooseBetFirst":"请选择投注数量",
+    "tip_noEnoughMoney":"EOS不足",
+    "tip_noEnoughCoin":"RUN不足",
+    "tip_betTimeOut":"投注时间结束，请等待下一轮比赛。",
+    "tip_betBeforeGo":"请先进行投注",
+    "tip_hasBeted":"你已投注，比赛即将开始。",
+    "tip_betFull":"投注数已超过上限。",
+    "tip_serverDataNull":"请等候数据加载完成",
+    "tip_noLogin":"请以Scatter登录",
+    "tip_betOutBoundOfWinPool":"投注数已超过上限（池中的EOS不足）",
+    "tip_invalid":"参数错误",
+    "tip_failed":"操作失败",
+    "tip_errorF1":"错误: #{1}",
+    "tip_bidLessMoney":"你的出价必须高于目前的最高投标价",
+    "tip_cantEditSlogan":"你不是广告位的持有者",
+    "tip_emptySlogan":"请在这里输入内容",
+    "tip_roundBeted":"你已经为本轮投注。",
+
+
+
+
+
+
+    
+    "NONE":"NONE"
+}

@@ -1,0 +1,72 @@
+{
+    "langName":"English",
+    "appName":"Nakamoto.run",
+
+    "str_statistics":"STATISTICS",
+    "str_chatroom":"CHAT ROOM",
+    "str_adsBidding":"Ads Bidding",
+    "str_dividends":"Dividends",
+    "str_referral":"Referral",
+    "str_faq":"FAQ",
+    "str_contact":"Contact",
+
+    "str_cycle":"Cycle #{1}",
+    "str_topBidder":"Current Top Bidder",
+    "str_mySlogan":"MY SLOGAN",
+
+    "str_staking":"Staking",
+    "str_staked":"Staked",
+    "str_unstaked":"Unstaked",
+    "str_unclaimed":"Unclaimed",
+    "str_payoutPool":"Payout Pool",
+    "str_total":"Total",
+    "str_nextPayout":"Next Payout",
+    "str_myEstimatedPayout":"My Estimated Payout",
+    "str_expectedPayoutPer1kRun":"Expected Payout Per 1K RUN",
+    "str_mining":"Mining",
+    "str_estimatedRunMinedToday":"Estimated RUN Mined Today",
+    "str_totalRunUnclaimed":"Total RUN Unclaimed",
+    
+    "str_playNextRound":"Play Next Round.",
+    "str_win":"You won #{1} EOS.",
+    "str_lose":"You lost #{1} EOS.",
+
+     "str_referral_notes":"The referral program lasts for 4 weeks starting on April 15, 2019. When you invite friends to play the game via your referral link, you get 8% of all their wagers. That is, for every 100 EOS they bet, you get 8 EOS.",
+
+    "bt_game_restart":"RESTART",
+    "bt_bid_bidForMyAd":"BID FOR MY AD",
+    "bt_bid_change":"CHANGE",
+    "bt_div_stake":"STAKE",
+    "bt_div_unstake":"UNSTAKE",
+    "bt_div_claimAll":"CLAIM ALL",
+
+    "tip_waiting":"Guinea pigs warming up ;-)",
+    "tip_inputEmpty":"Please enter the amount.",
+    "tip_chooseBetFirst":"Please choose the amount to bet.",
+    "tip_noEnoughMoney":"Insufficient EOS balance.",
+    "tip_noEnoughCoin":"Insufficient RUN tokens.",
+    "tip_betTimeOut":"Time's up for placing bets. Please wait for the next round.",
+    "tip_betBeforeGo":"Please place your bets first.",
+    "tip_hasBeted":"You've already placed a bet. The race will begin shortly.",
+    "tip_betFull":"You've exceeded max bet amount allowed.",
+    "tip_serverDataNull":"Please wait for the data to be fully loaded.",
+    "tip_noLogin":"Please login with scatter.",
+    "tip_betOutBoundOfWinPool":"You've exceeded max bet amount allowed (Insufficient EOS in the pool).",
+    "tip_invalid":"The parameter is invalid",
+    "tip_failed":"operation failed",
+    "tip_operateSuccess":"operation success",
+    "tip_transactionConfirmed":"Transaction confirmed!",
+    "tip_errorF1":"Error: #{1}",
+    "tip_bidLessMoney":"Your bid must be higher than the current top bidder.",
+    "tip_cantEditSlogan":"You are not the slogan owner.",
+    "tip_emptySlogan":"Please write something here.",
+    "tip_roundBeted":"You've already placed a bet for this round.",
+
+
+
+
+
+
+
+    "NONE":"NONE"
+}

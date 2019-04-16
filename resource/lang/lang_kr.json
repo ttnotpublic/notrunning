@@ -1,0 +1,73 @@
+{
+    "langName":"한국어",
+    "appName":"Nakamoto.run",
+    
+    "str_statistics":"통계",
+    "str_chatroom":"채팅룸",
+    "str_adsBidding":"광고 입찰",
+    "str_dividends":"배당금",
+    "str_referral":"Referral",
+    "str_faq":"자주 묻는 질문",
+    "str_contact":"연락처",
+
+    "str_cycle":"싸이클 #{1}",
+    "str_topBidder":"현재 최고가 입찰자",
+    "str_mySlogan":"나의 광고 문구",
+
+    "str_staking":"스테이킹",
+    "str_staked":"스케이크",
+    "str_unstaked":"언스테이크",
+    "str_unclaimed":"미청구 금액",
+    "str_payoutPool":"배당금 풀",
+    "str_total":"합계",
+    "str_nextPayout":"다음 배당까지",
+    "str_myEstimatedPayout":"나의 예상 배당금",
+    "str_expectedPayoutPer1kRun":"1000 RUN 당 예상 배당금",
+    "str_mining":"채굴",
+    "str_estimatedRunMinedToday":"당일 채굴량 추정액",
+    "str_totalRunUnclaimed":"미청구 RUN 총액",
+    
+    "str_playNextRound":"다음 경기 진행",
+    "str_win":"#{1} EOS를 획득했습니다.",
+    "str_lose":"#{1} EOS를 잃었습니다.",
+
+     "str_referral_notes":"The referral program lasts for 4 weeks. When you invite friends to play the game via your referral link, you get 8% of all their wagers in the first week. That is, for every 100 EOS they bet, you get 8 EOS. This percentage is then reduced to 7% in the second week, 6% in the third and finally 5%.",
+
+    "bt_game_restart":"재시작",
+    "bt_bid_bidForMyAd":"나의 광고 입찰",
+    "bt_bid_change":"변경",
+    "bt_div_stake":"스케이크",
+    "bt_div_unstake":"언스테이크",
+    "bt_div_claimAll":"전액 청구",
+
+    "tip_waiting":"기니피그들이 몸을 풀고 있습니다 :)",
+    "tip_inputEmpty":"금액을 입력하십시오.",
+    "tip_chooseBetFirst":"베팅 금액을 선택하세요.",
+    "tip_noEnoughMoney":"EOS 잔고가 부족합니다.",
+    "tip_noEnoughCoin":"RUN 잔고가 부족합니다.",
+    "tip_betTimeOut":"베팅 시간이 지났습니다. 다음 라운드까지 기다려주세요.",
+    "tip_betBeforeGo":"먼저 베팅을 진행하세요.",
+    "tip_hasBeted":"이미 베팅을 완료했습니다. 곧 경주가 시작합니다.",
+    "tip_betFull":"이번 경주에 대한 베팅을 이미 완료하셨습니다.",
+    "tip_serverDataNull":"데이터 로딩중입니다.",
+    "tip_noLogin":"Scatter 를 통해 로그인하세요.",
+    "tip_betOutBoundOfWinPool":"최대 베팅금액을 초과했습니다(풀 내의 EOS 배당금 부족)",
+    "tip_invalid":"매개변수가 틀립니다.",
+    "tip_failed":"작동 실패",
+    "tip_operateSuccess":"수술 성공",
+    "tip_transactionConfirmed":"거래 확인 됨!",
+    "tip_errorF1":"오류: #{1}",
+    "tip_bidLessMoney":"최고 입찰가보다 더 많은 금액을 입찰하셔야 합니다.",
+    "tip_coinLow":"최고 입찰가보다 더 많은 금액을 입찰하셔야 합니다.",
+    "tip_cantEditSlogan":"문구에 대한 권한이 없습니다.",
+    "tip_emptySlogan":"내용을 기입하십시오.",
+    "tip_roundBeted":"이번 경주에 대한 베팅을 이미 완료하셨습니다.",
+
+
+
+
+
+
+    
+    "NONE":"NONE"
+}

@@ -1,0 +1,70 @@
+{
+    "faq_list": [
+        {
+            "question": "What is Nakamoto.run?",
+            "answer_list": [
+                {
+                    "text": "Nakamoto.run is ",
+                    "type": "bold"
+                },
+                {
+                    "text": "the first guinea pig",
+                    "type": "italic,bold"
+                },
+                {
+                    "text": " racing game built on EOS blockchain. Players can bet on the guinea pigs they like to win the race and also EOS. In each round, you have about 3 minutes to choose from the 8 guinea pigs and place bets on them. Then the guinea pigs enter into a race and the result is revealed immediately.",
+                    "type": "normal"
+                },
+                {
+                    "text": " try href",
+                    "type": "href",
+                    "href": "http://www.baidu.com"
+                }
+            ]
+        },
+        {
+            "question": "What is Nakamoto.run2?What is Nakamoto.run?",
+            "answer_list": [
+                {
+                    "text": "Nakamoto.run is2 ",
+                    "type": "normal"
+                },
+                {
+                    "text": "the first guinea pig",
+                    "type": "italic,bold"
+                },
+                {
+                    "text": " racing game built on EOS blockchain. Players can bet on the guinea pigs they like to win the race and also EOS. In each round, you have about 3 minutes to choose from the 8 guinea pigs and place bets on them. Then the guinea pigs enter into a race and the result is revealed immediately.racing game built on EOS blockchain. Players can bet on the guinea pigs they like to win the race and also EOS. In each round, you have about 3 minutes to choose from the 8 guinea pigs and place bets on them. Then the guinea pigs enter into a race and the result is revealed immediately.racing game built on EOS blockchain. Players can bet on the guinea pigs they like to win the race and also EOS. In each round, you have about 3 minutes to choose from the 8 guinea pigs and place bets on them. Then the guinea pigs enter into a race and the result is revealed immediately.racing game built on EOS blockchain. Players can bet on the guinea pigs they like to win the race and also EOS. In each round, you have about 3 minutes to choose from the 8 guinea pigs and place bets on them. Then the guinea pigs enter into a race and the result is revealed immediately.racing game built on EOS blockchain. Players can bet on the guinea pigs they like to win the race and also EOS. In each round, you have about 3 minutes to choose from the 8 guinea pigs and place bets on them. Then the guinea pigs enter into a race and the result is revealed immediately.",
+                    "type": "normal"
+                },
+                {
+                    "text": " try href",
+                    "type": "href",
+                    "href": "http://www.baidu.com"
+                }
+            ]
+        },
+        {
+            "question": "What is Nakamoto.run3?",
+            "answer_list": [
+                {
+                    "text": "Nakamoto.run3 is ",
+                    "type": "normal"
+                },
+                {
+                    "text": "the first guinea pig",
+                    "type": "italic,bold"
+                },
+                {
+                    "text": " racing game built on EOS blockchain. Players can bet on the guinea pigs they like to win the race and also EOS. In each round, you have about 3 minutes to choose from the 8 guinea pigs and place bets on them. Then the guinea pigs enter into a race and the result is revealed immediately.",
+                    "type": "bold"
+                },
+                {
+                    "text": " try href",
+                    "type": "href",
+                    "href": "http://www.baidu.com"
+                }
+            ]
+        }
+    ]
+}

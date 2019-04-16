@@ -1,0 +1,103 @@
+{
+    "faq_list": [
+        {
+            "question": "What is Nakamoto.run?",
+            "answer_list": [
+                {
+                    "text": "Nakamoto.run is the first guinea pig racing game built on EOS blockchain. Players can bet on the guinea pigs they like to win the race and also EOS. In each round, you have about 3 minutes to choose from the 8 guinea pigs and place bets on them. Then the guinea pigs enter into a race and the result is revealed immediately.",
+                    "type": "normal"
+                }
+            ]
+        },
+        {
+            "question": "What is required to play the game?",
+            "answer_list": [
+                {
+                    "text": "First of all, you'll need an EOS account. If you're using Chrome browser, make sure you have ",
+                    "type": "normal"
+                },
+                {
+                    "text": "Scatter plugin",
+                    "type": "bold, href",
+                    "href": "https://chrome.google.com/webstore/detail/scatter/ammjpmhgckkpcamddpolhchgomcojkle"
+                },
+                {
+                    "text": " installed. If you're playing this game in Dapp centers of major wallets, all transactions will be handled by the wallet if they are scatter-compatible.",
+                    "type": "normal"
+                }
+            ]
+        },
+        {
+            "question": "How to place bets on guinea pigs?",
+            "answer_list": [
+                {
+                    "text": "Choose the amount you'd like to bet and then click on the numbers on the lawn. Single numbers represent the champion while two-digits separated by commas represent the 1st and 2nd places. After placing bets, click 'GO!' to send transactions to the blockchian for confirmation. Then relax and wait for the guinea pigs to enter the race.",
+                    "type": "normal"
+                }
+            ]
+        },
+        {
+            "question": "What is ads bidding?",
+            "answer_list": [
+                {
+                    "text": "We designed a unique in-game ad space for players to bid for. Each time a race ends, the champion guinea pig shouts out a sentence that the ad bidder has customised. Everyone with RUN token can bid for this ad space to have their ads shown in a period of 24 hours. When you're the ad space owner, you can change the ad text at anytime within 24 hours.",
+                    "type": "normal"
+                }
+            ]
+        },
+        {
+            "question": "What is the RUN token?",
+            "answer_list": [
+                {
+                    "text": "The RUN token is issued by Tied Tighter (the team who developed Nakamoto.run) on EOS blockchain. By holding RUN tokens, you can get the dividends from the game revenue. Every 24 hours, RUN token holders can claim their dividends in proportion to the number of tokens they staked. Another use of RUN tokens is for ads bidding in the game.",
+                    "type": "normal"
+                }
+            ]
+        },
+        {
+            "question": "How will RUN tokens be distributed?",
+            "answer_list": [
+                {
+                    "text": "The total sum of RUN tokens issued is 21 million with absolutely no inflation in the future. 5% of the tokens are for public sale. Another 5% will be used for development and marketing and is managed by the Tied Tighter team. The rest 90% will be rewarded to players who played the game, which is sometimes called ‘mining’ by many Dapp users. Every 24 hours, 2100 tokens are mined and rewarded to the players who played the game in the past 24 hours in proportion to the amount of bet they have placed in the game.",
+                    "type": "normal"
+                }
+            ]
+        },
+        {
+            "question": "How will the game revenue be distributed?",
+            "answer_list": [
+                {
+                    "text": "In the first year, 80% of the revenue will be distributed to RUN token holders and the Tied Tighter team keeps 20%. In the second year, the team keeps 10% and the rest 90% is for RUN token holders. After two years’ time, all the revenue belongs to RUN token holders and the game will be run by the community and becomes fully decentralised.",
+                    "type": "normal"
+                }
+            ]
+        },
+        {
+            "question": "How decentralized is Nakamoto.run?",
+            "answer_list": [
+                {
+                    "text": "Tied Tighter team puts decentralization at a high priority at the very beginning of developing the game. By design, only 20% of the revenue goes to the team in the first year and 10% in the second year and ZERO after then. The team does not pre-mine, or keep any RUN tokens for themselves. It only manages 5% of the tokens for developing and marketing. In the future, we plan to put all the graphics of the game on IPFS when the technology is mature. We aim to make Nakamoto.run fully decentralized and unstoppable while maintaining the fun essence of the game.",
+                    "type": "normal"
+                }
+            ]
+        },
+        {
+            "question": "What determines the result of a race?",
+            "answer_list": [
+                {
+                    "text": "In the current version, it’s from random numbers. In future versions we’ll add more factors or even let the players decide the results with a special mechanism thus giving the game much more fun!",
+                    "type": "normal"
+                }
+            ]
+        },
+        {
+            "question": "Will you develop more games in the future?",
+            "answer_list": [
+                {
+                    "text": "We are not going to develop completely new games in the RUN ecosystem. However, we’ll keep updating the game, adding new features, and even develop varieties of the original game. Those games, with the same theme of guinea pigs, are in parallel and will all be within the RUN framework.",
+                    "type": "normal"
+                }
+            ]
+        }
+    ]
+}
