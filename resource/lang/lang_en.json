@@ -31,7 +31,7 @@
     "str_win":"You won #{1} EOS.",
     "str_lose":"You lost #{1} EOS.",
 
-     "str_referral_notes":"The referral program lasts for 4 weeks starting on April 15, 2019. When you invite friends to play the game via your referral link, you get 8% of all their wagers. That is, for every 100 EOS they bet, you get 8 EOS.",
+     "str_referral_notes":"When you invite friends to play the game via your referral link, you get 8% of all their wagers. That is, for every 100 EOS they bet, you get 8 EOS.",
 
     "bt_game_restart":"RESTART",
     "bt_bid_bidForMyAd":"BID FOR MY AD",
